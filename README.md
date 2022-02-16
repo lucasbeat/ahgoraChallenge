@@ -13,9 +13,15 @@ Id
 Título
 Descrição
 Duração
+</br>
+
+# Abaixo gifs demonstrativos
+
+É possível pesquisar sempre de acordo com o termo que quiser e ele irá retorar as 5 palavras mais utilizadas na descrição e titulo e também irá trazer os vídeos de acordo com algumas regras.
+
 
 <img src="./src/assets/teste técnico.gif">
 
-É possível pesquisar sempre de acordo com o termo que quiser e ele irá retorar as 5 palavras mais utilizadas na descrição e titulo e também irá trazer os vídeos de acordo com algumas regras.
+</br>
 
 <img src="./src/assets/teste técnico 2.gif">
