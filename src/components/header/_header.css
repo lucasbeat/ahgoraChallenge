@@ -1,0 +1,92 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    background-color: #202020;
+    height: 8.5vh;
+
+}
+
+.header-left,.header-right{
+    display: flex;
+    align-items: center;
+}
+
+.header-menuicon {
+    padding: 20px;
+}
+
+.header-logo {
+    width: 200px;
+}
+
+.header-right > * {
+    cursor: pointer;
+    margin-right: 20px;
+    font-size: 25px !important;
+}
+
+.header-center {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+    justify-content: center;
+}
+
+.header-input {
+    width: 27vw;
+    height: 32px;
+    background-color: #121212;
+    padding-left: 10px;
+    outline: none;
+    border: none;
+    border: 1px solid #303030;
+    border-right: none;
+    font-size: 16px;
+
+    color: white;
+}
+
+.input-days {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.Input-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1199DD;
+    border-radius: 10px;
+    width: 35vw;
+    height: 30px;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.header-input-days {
+    margin: 10px;
+    width: 7vw;
+    border-radius: 10px;
+    height: 32px;
+    
+}
+
+.input-days-center {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-self: self-end;
+
+  
+}
+
+.header-button {
+    height: 33.7px;
+    background-color: #313131 !important;
+    border-radius: 0 !important;
+}
