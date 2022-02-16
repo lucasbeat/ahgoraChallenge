@@ -3,7 +3,7 @@
 Desafio consiste em consumir a api disponibilizada pelo youtube e retornar os videos de acordo com as regras propostas.
 
 Para rodar o teste é necessário ir em services/api e digitar no campo selecionado a chave da api do youtube
-Após isso no terminal rode o comando npm ou yarn(Recomendado) para baixar todas as dependências da aplicação, após esse procedimento no terminal rode o comando yarn start.
+,após isso no terminal rode o comando npm ou yarn(Recomendado) para baixar todas as dependências da aplicação, feito esse procedimento no terminal rode o comando yarn start.
 
 # Esclarecimentos sobre o teste
 
